@@ -1,0 +1,97 @@
+body{
+    background-color: aqua;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 15%;
+}
+
+header{
+    width: 80%;
+    height: 100px;
+    background-color: rgb(197, 78, 78);
+}
+
+.div-logo{
+    padding-top: 35px;
+    padding-left: 35px;
+    padding-left: 15px;
+    padding-bottom: 35px;
+    float: left;
+}
+
+.div-imagen-logo{
+    background-attachment: fixed;
+}
+
+#registro{
+    float: right;
+    padding-top: 35px;
+    padding-left: 35px;
+    padding-left: 15px;
+    padding-bottom: 35px;
+}
+
+#login{
+    float: right;
+    padding-top: 35px;
+    padding-left: 35px;
+    padding-left: 15px;
+    padding-bottom: 35px;
+}
+
+.seccionProductos{
+    padding-top: 10px;
+    margin-left: 0;
+    height: 170px;
+    width: 280px;
+    border-style: solid;
+    float: left;
+    margin: 2%;
+}
+
+
+.div-articulo{
+    float: left;
+    margin-top: 20px;
+    width: 630px;
+    height: 500px;
+    border-style: solid;
+    background-color: whitesmoke;
+    
+
+}   
+
+.div-tutoriales{
+    margin-left: 700px;
+    margin-right: 100px;
+    margin-top: 20px;
+    margin-left: 20px;
+    height: 50px;
+    width: 250px;
+    border-style: solid;
+    background-color: whitesmoke;
+    float: left;    
+}
+.div-tutoriales-titulos{
+    margin-left: 700px;
+    margin-right: 100px;
+    margin-top: 10px;
+    margin-left: 20px;
+    height: 200px;
+    width: 250px;
+    border-style: solid;
+    background-color: whitesmoke;
+    float: left;
+}
+
+.div-publicidad{
+    margin-left: 700px;
+    margin-right: 100px;
+    margin-top: 10px;
+    margin-left: 20px;
+    height: 142px;
+    width: 250px;
+    border-style: solid;
+    background-color: whitesmoke;
+    float: left;
+}
+
